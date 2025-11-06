@@ -32,5 +32,3 @@ Just type a city name, and the UI animates in with temperature, humidity, wind s
 git clone https://github.com/nuqxo/weather-aesthetic.git
 
 ---
-
-🪞 Designed & built by [nuqxo](https://github.com/nuqxo)
