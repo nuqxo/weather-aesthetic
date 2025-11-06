@@ -1,4 +1,3 @@
-<img width="1592" height="1074" alt="image" src="https://github.com/user-attachments/assets/33055b6f-88b6-40ed-acd0-08052b4c7e85" />
 # 🌤️ Weather Aesthetic — Smooth UI Weather App
 
 Weather Aesthetic is a clean, modern weather app with smooth transitions, a minimal interface, and live weather data fetched from a public API.  
